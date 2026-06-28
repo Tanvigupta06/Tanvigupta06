@@ -22,15 +22,6 @@ I'm a **Data Analyst** who loves turning raw data into meaningful insights. I en
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tools Used |
-|---------|-------------|------------|
-| 🔧 [Project Name](#) | Brief description | Python, SQL |
-| 🔧 [Project Name](#) | Brief description | Power BI, Excel |
-
----
-
 ## 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/tanvi-gupta-56a10b412/">
